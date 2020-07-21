@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc25ecbc-54ed-4316-93d0-2cf130488e3c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1en3h058dGYjycTf4VAh5ddpYXF" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Enter the destination, dates and click the search button">
+    <configuration name="Scenario: Enter the destination, dates and click the search button" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Kayak-BasicValidation.feature" />
+      <option name="GLUE" value="step_defs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="kayak" />
+      <option name="NAME_FILTER" value="^Enter the destination\, dates and click the search button$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Enter the destination\, dates and click the search button$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Enter the destination, dates and click the search button" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Navigates to Kayak Homepage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Kayak-BasicValidation.feature" />
+      <option name="GLUE" value="steps.defs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="kayak" />
+      <option name="NAME_FILTER" value="^Navigates to Kayak Homepage$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Navigates to Kayak Homepage$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Navigates to Kayak Homepage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Negative testing for the empty search field" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Kayak-BasicValidation.feature" />
+      <option name="GLUE" value="step_defs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="kayak" />
+      <option name="NAME_FILTER" value="^Negative testing for the empty search field$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Negative testing for the empty search field$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Negative testing for the empty search field" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Title and URL verification" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Kayak-BasicValidation.feature" />
+      <option name="GLUE" value="step_defs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="kayak" />
+      <option name="NAME_FILTER" value="^Title and URL verification$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Title and URL verification$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Title and URL verification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="GLUE" value="step_defs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Scenario: Title and URL verification" />
+      <item itemvalue="Cucumber java.Scenario: Navigates to Kayak Homepage" />
+      <item itemvalue="Cucumber java.Scenario: Negative testing for the empty search field" />
+      <item itemvalue="Cucumber java.Scenario: Enter the destination, dates and click the search button" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Enter the destination, dates and click the search button" />
+        <item itemvalue="Cucumber java.Scenario: Negative testing for the empty search field" />
+        <item itemvalue="Cucumber java.Scenario: Title and URL verification" />
+        <item itemvalue="Cucumber java.Scenario: Navigates to Kayak Homepage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc25ecbc-54ed-4316-93d0-2cf130488e3c" name="Default Changelist" comment="" />
+      <created>1594943644568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594943644568</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="117" key="#Project_Structure" timestamp="1594945660647">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="640" y="117" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1594945660647" />
+    <state x="298" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594952966796">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="298" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1594952966796" />
+    <state x="298" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814@0.23.1440.814" timestamp="1594947372902" />
+    <state width="1398" height="300" key="GridCell.Tab.0.bottom" timestamp="1595017502919">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595017502919" />
+    <state width="1398" height="332" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1594947384070" />
+    <state width="1398" height="300" key="GridCell.Tab.0.center" timestamp="1595017502918">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595017502918" />
+    <state width="1398" height="332" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1594947384069" />
+    <state width="1398" height="300" key="GridCell.Tab.0.left" timestamp="1595017502918">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595017502918" />
+    <state width="1398" height="332" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1594947384069" />
+    <state width="1398" height="300" key="GridCell.Tab.0.right" timestamp="1595017502919">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595017502919" />
+    <state width="1398" height="332" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1594947384069" />
+    <state x="376" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1594944082530">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="376" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1594944082530" />
+    <state x="54" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1594947280425">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="54" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1594947280425" />
+  </component>
+</project>
